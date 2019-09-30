@@ -1,0 +1,6 @@
+[0930/213542.991:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Access is denied. (0x5)
+[0930/213542.996:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0930/213542.997:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Access is denied. (0x5)
+[0930/214757.446:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Access is denied. (0x5)
+[0930/214757.453:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0930/214757.454:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Access is denied. (0x5)
